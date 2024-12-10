@@ -1,0 +1,49 @@
+body {
+  background-color: grey;
+}
+.App {
+  border: 1px  solid #fff;
+  margin: 100px  30%;
+  padding: 50px;
+  text-align: center;
+  border-radius: 35px 75px;
+}
+.App h2 {
+  color: #fff;
+}
+.App ul {
+  list-style: "❤️";
+  cursor: pointer;
+  font-size: 22px ;
+  color: #fff;
+  margin: 20px;
+}
+.App input {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.App button {
+  display: block;
+  margin: auto;
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+  border: 0;
+}
+.App ul li {
+  max-width: 300px;
+    overflow-wrap: break-word;
+}
+.diffstyle {
+  list-style: "💙";
+  text-decoration: line-through;
+}
+.div10 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
